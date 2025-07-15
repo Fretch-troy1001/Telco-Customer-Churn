@@ -5,7 +5,8 @@
 This was the pattern ConnectTel noticed in its quarterly reports. Growth was stagnant—not because of poor acquisition, but due to silent attrition. Customers weren't complaining. They were simply leaving.
 
 Rather than treating this as a marketing issue, we reframed it as a predictive modeling challenge:
-![Dashboard Preview](images/churn.gif)
+
+![Dashboard Preview](image/churn.gif)
 
 ## What if we could know in advance who’s likely to churn—and why?
 
